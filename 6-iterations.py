@@ -1,4 +1,10 @@
 
+#%% Importing relevant libraries
+import numpy as np
+import pandas as pd
+import seaborn as sns
+
+
 #%%
 # If statements in brief:
 # Each conditional should return a single True/False
@@ -96,7 +102,7 @@ new_list
 
 #%%
 # list comprehensions 
-[[output expression] for [iterator variable] in [iterable object]]
+## [[output expression] for [iterator variable] in [iterable object]]
 
 #%%
 # for example:

@@ -1,3 +1,7 @@
+#importing relevant libraries
+import pandas as pd
+import numpy as np
+
 # pandas DataFrames - Data containers, pt 4
 
 # Get a DataFrame when impoting a file
